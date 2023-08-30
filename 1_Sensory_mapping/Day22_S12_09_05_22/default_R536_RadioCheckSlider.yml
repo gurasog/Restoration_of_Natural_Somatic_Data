@@ -1,0 +1,10 @@
+Sensation0:
+  maintactileSlider: 3.6
+  motorSlider: 1.1
+  naturalSlider: -2.0
+  painSlider: 0.0
+  phantomSlider: -1.3
+  pressureSlider: 5.0
+  tempSlider: 0
+  touchSlider: 5.0
+  urgeSlider: 5.0
